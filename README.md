@@ -7,7 +7,7 @@ A simple deep learning project that classifies an uploaded animal image into its
 Through this project, I learned how to:
 
 * Work with an **image classification dataset**
-* Perform **image preprocessing and resizing**
+* Perform **image preprocessing and resizing**   
 * Build a **CNN (Convolutional Neural Network)** using PyTorch
 * Train and evaluate a deep learning image classification model
 * Use **PyTorch tensors and DataLoaders**
